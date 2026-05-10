@@ -3,6 +3,7 @@
 ## 📋 项目简介
 
 这是一个基于图像识别和路径搜索算法的QQ连连看自动化脚本，采用Python开发，实现了智能识别游戏界面、自动匹配可消除方块、精确点击操作等功能。
+
 <img width="800" height="600" alt="llk" src="https://github.com/user-attachments/assets/9f892251-34b0-445f-8538-07ead2ea1c89" />
 
 
