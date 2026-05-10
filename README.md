@@ -128,5 +128,7 @@ game_top = window_top + int(181.0 / 600.0 * actual_window_height)
 ---
 
 **⭐ 如果这个项目对你有帮助，欢迎打赏支持！**
-<img width="1080" height="1681" alt="31258d654c2db7b3c1a007db21cdba46" src="https://github.com/user-attachments/assets/08749c95-b2b0-4a91-a15e-6e6e361afd82" />
+
+<img width="600" height="800" alt="zfb" src="https://github.com/user-attachments/assets/8d76abbe-69f0-4864-8bf9-07effbbb5266" />
+<img width="600" height="800" alt="wx" src="https://github.com/user-attachments/assets/89b8e3b9-030b-4ba9-b8fb-6bebb4a7f507" />
 
