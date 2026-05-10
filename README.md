@@ -121,10 +121,31 @@ game_top = window_top + int(181.0 / 600.0 * actual_window_height)
 - 🎨 界面改进
 - 📝 文档完善
 
-## 📄 许可证
+## � 打赏支持
+
+如果这个项目对你有帮助，欢迎打赏支持！
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/8d76abbe-69f0-4864-8bf9-07effbbb5266" alt="支付宝" width="300" height="400">
+        <br>
+        <strong>支付宝</strong>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github.com/user-attachments/assets/89b8e3b9-030b-4ba9-b8fb-6bebb4a7f507" alt="微信" width="300" height="400">
+        <br>
+        <strong>微信支付</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## �📄 许可证
 
 本项目仅供学习交流使用，请勿用于商业用途。
 
 ---
 
-**⭐ 如果这个项目对你有帮助，请给个Star支持一下！**
+**⭐ 如果这个项目对你有帮助，给个Star支持一下！**
