@@ -148,4 +148,4 @@ game_top = window_top + int(181.0 / 600.0 * actual_window_height)
 
 ---
 
-**⭐ 如果这个项目对你有帮助，给个Star支持一下！**
+**⭐ 如果这个项目对你有帮助，请给个Star支持一下！**
